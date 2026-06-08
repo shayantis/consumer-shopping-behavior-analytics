@@ -109,7 +109,7 @@ Dashboard features:
 
 ## Dashboard Preview
 
-<img width="1181" height="641" alt="customer_behavior_dashboard" src="https://github.com/user-attachments/assets/23cbe5ad-ea01-4412-9c2e-f57a09a9fde5" />
+<img width="1182" height="646" alt="customer_behavior_analysis_dashboard" src="https://github.com/user-attachments/assets/6009e1d4-5ef5-41db-861a-3da5ede3a3ad" />
 
 ---
 
