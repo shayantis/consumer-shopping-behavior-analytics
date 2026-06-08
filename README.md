@@ -71,19 +71,19 @@ Business questions answered using SQL:
 
 Created an interactive dashboard to visualize:
 
-* Revenue trends
-* Customer segments
-* Category-wise sales
-* Subscription behavior
-* Age-group analysis
-* Shipping insights
+* Revenue by category
+* Customer spend vs ratings
+* Subscription behavior analysis
+* Revenue by age group
+* Customer purchase patterns
+* Payment distribution insights
 
 Dashboard features:
 
-* Interactive filters
-* KPI cards
-* Category-wise visuals
-* Customer segmentation analysis
+* Interactive slicers and filters
+* KPI cards with customer metrics
+* Scatter, treemap, donut, and area visualizations
+* Customer behavior and spending analysis
 
 ---
 
