@@ -82,7 +82,7 @@ Dashboard features:
 
 * Interactive slicers and filters
 * KPI cards with customer metrics
-* Scatter, treemap, donut, and area visualizations
+* Scatter, treemap, donut, fill map, and area visualizations
 * Customer behavior and spending analysis
 
 ---
@@ -109,7 +109,11 @@ Dashboard features:
 
 ## Dashboard Preview
 
-<img width="1182" height="646" alt="customer_behavior_analysis_dashboard" src="https://github.com/user-attachments/assets/6009e1d4-5ef5-41db-861a-3da5ede3a3ad" />
+<img width="1322" height="745" alt="Screenshot 2026-06-12 181140" src="https://github.com/user-attachments/assets/642b1122-e5b6-48db-94f4-c9551c49d220" />
+
+<img width="1322" height="740" alt="Screenshot 2026-06-12 181217" src="https://github.com/user-attachments/assets/43c57e23-ce9a-410f-b270-2b8c7a5772a5" />
+
+<img width="1326" height="737" alt="Screenshot 2026-06-12 181300" src="https://github.com/user-attachments/assets/e3c6adc5-f84b-4e63-9764-83840f9ef778" />
 
 ---
 
