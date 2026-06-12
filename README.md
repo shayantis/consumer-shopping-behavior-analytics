@@ -107,17 +107,19 @@ Dashboard features:
 
 ---
 
-## Dashboard Preview
+# Screenshots
 
-<img width="1322" height="745" alt="Screenshot 2026-06-12 181140" src="https://github.com/user-attachments/assets/642b1122-e5b6-48db-94f4-c9551c49d220" />
+## Overview Dashboard
 
-<br><br>
+<img width="1322" height="745" alt="Screenshot 2026-06-12 181140" src="https://github.com/user-attachments/assets/64740afd-56b8-433d-96aa-83e9c698188f" />
 
-<img width="1322" height="740" alt="Screenshot 2026-06-12 181217" src="https://github.com/user-attachments/assets/43c57e23-ce9a-410f-b270-2b8c7a5772a5" />
+## Dashboard with Navigation Menu
 
-<br><br>
+<img width="1322" height="740" alt="Screenshot 2026-06-12 181217" src="https://github.com/user-attachments/assets/58197ad4-a130-4016-9856-a27a93872482" />
 
-<img width="1326" height="737" alt="Screenshot 2026-06-12 181300" src="https://github.com/user-attachments/assets/e3c6adc5-f84b-4e63-9764-83840f9ef778" />
+## Customer Insights & Sales Analysis Dashboard
+
+<img width="1326" height="737" alt="Screenshot 2026-06-12 181300" src="https://github.com/user-attachments/assets/c6f441a6-1550-4d8f-909f-9e7a2fdec275" />
 
 ---
 
